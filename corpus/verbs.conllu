@@ -1,0 +1,156 @@
+# sent_id = paris_de_ma_fenetre_colette.spacy.4
+# text = Nous fûmes
+180	Nous	_	PRON	_	Number=Plur|Person=1|PronType=Prs	_	_	_	_
+181	fûmes	_	VERB	_	Mood=Ind|Number=Plur|Person=1|Tense=Past	_	_	_	_
+
+
+
+# sent_id = paris_de_ma_fenetre_colette.spacy.4
+# text = Nous fûmes mis
+180	Nous	_	PRON	_	Number=Plur|Person=1|PronType=Prs	_	_	_	_
+181	fûmes	_	AUX	_	Mood=Ind|Number=Plur|Person=1|Tense=Past	_	_	_	_
+29	mis	_	VERB	_	Tense=Past|VerbForm=Part	_	_	_	_
+
+
+
+# sent_id = paris_de_ma_fenetre_colette.spacy.4
+# text = Vous fûtes
+180	Vous	_	PRON	_	Number=Plur|Person=2|PronType=Prs	_	_	_	_
+181	fûtes	_	VERB	_	Mood=Ind|Number=Plur|Person=2|Tense=Past	_	_	_	_
+
+
+
+# sent_id = paris_de_ma_fenetre_colette.spacy.4
+# text = Vous fûtes
+180	Vous	_	PRON	_	Number=Plur|Person=2|PronType=Prs	_	_	_	_
+181	fûtes	_	VERB	_	Mood=Ind|Number=Plur|Person=2|Tense=Past	_	_	_	_
+
+
+
+# sent_id = paris_de_ma_fenetre_colette.spacy.4
+# text = Nous fûmes
+180	Nous	_	PRON	_	Number=Plur|Person=1|PronType=Prs	_	_	_	_
+181	fûmes	_	VERB	_	Mood=Ind|Number=Plur|Person=1|Tense=Past	_	_	_	_
+
+
+
+# sent_id = paris_de_ma_fenetre_colette.spacy.4
+# text = Vous fûtes
+180	Vous	_	PRON	_	Number=Plur|Person=2|PronType=Prs	_	_	_	_
+181	fûtes	_	VERB	_	Mood=Ind|Number=Plur|Person=2|Tense=Past	_	_	_	_
+
+
+
+# sent_id = paris_de_ma_fenetre_colette.spacy.4
+# text = Vous fûtes
+180	Vous	_	PRON	_	Number=Plur|Person=2|PronType=Prs	_	_	_	_
+181	fûtes	_	VERB	_	Mood=Ind|Number=Plur|Person=2|Tense=Past	_	_	_	_
+
+
+
+# sent_id = paris_de_ma_fenetre_colette.spacy.4
+# text = Vous fûtes mis
+180	Vous	_	PRON	_	Number=Plur|Person=2|PronType=Prs	_	_	_	_
+181	fûtes	_	AUX	_	Mood=Ind|Number=Plur|Person=2|Tense=Past	_	_	_	_
+29	mis	_	VERB	_	Tense=Past|VerbForm=Part	_	_	_	_
+
+
+
+# sent_id = paris_de_ma_fenetre_colette.spacy.4
+# text = Vous fûtes mis
+180	Vous	_	PRON	_	Number=Plur|Person=2|PronType=Prs	_	_	_	_
+181	fûtes	_	AUX	_	Mood=Ind|Number=Plur|Person=2|Tense=Past	_	_	_	_
+29	mis	_	VERB	_	Tense=Past|VerbForm=Part	_	_	_	_
+
+
+
+# sent_id = paris_de_ma_fenetre_colette.spacy.4
+# text = tu fus
+180	tu	_	PRON	_	Number=Sing|Person=2|PronType=Prs	_	_	_	_
+181	fus	_	VERB	_	Mood=Ind|Number=Sing|Person=2|Tense=Past	_	_	_	_
+
+
+
+# sent_id = paris_de_ma_fenetre_colette.spacy.4
+# text = tu fus
+180	tu	_	PRON	_	Number=Sing|Person=2|PronType=Prs	_	_	_	_
+181	fus	_	VERB	_	Mood=Ind|Number=Sing|Person=2|Tense=Past	_	_	_	_
+
+
+
+# sent_id = paris_de_ma_fenetre_colette.spacy.4
+# text = tu fus mis
+180	tu	_	PRON	_	Number=Sing|Person=2|PronType=Prs	_	_	_	_
+181	fus	_	AUX	_	Mood=Ind|Number=Sing|Person=2|Tense=Past	_	_	_	_
+29	mis	_	VERB	_	Tense=Past|VerbForm=Part	_	_	_	_
+
+
+
+# sent_id = paris_de_ma_fenetre_colette.spacy.4
+# text = Nous allâmes
+180	Nous	_	PRON	_	Number=Plur|Person=1|PronType=Prs	_	_	_	_
+181	allâmes	_	VERB	_	Mood=Ind|Number=Plur|Person=1|Tense=Past	_	_	_	_
+
+
+
+# sent_id = paris_de_ma_fenetre_colette.spacy.4
+# text = Vous allâtes
+180	Vous	_	PRON	_	Number=Plur|Person=2|PronType=Prs	_	_	_	_
+181	allâtes	_	VERB	_	Mood=Ind|Number=Plur|Person=2|Tense=Past	_	_	_	_
+
+
+
+# sent_id = paris_de_ma_fenetre_colette.spacy.4
+# text = Vous allâtes
+180	Vous	_	PRON	_	Number=Plur|Person=2|PronType=Prs	_	_	_	_
+181	allâtes	_	VERB	_	Mood=Ind|Number=Plur|Person=2|Tense=Past	_	_	_	_
+
+
+
+# sent_id = paris_de_ma_fenetre_colette.spacy.4
+# text = Nous allâmes
+180	Nous	_	PRON	_	Number=Plur|Person=1|PronType=Prs	_	_	_	_
+181	allâmes	_	VERB	_	Mood=Ind|Number=Plur|Person=1|Tense=Past	_	_	_	_
+
+
+
+# sent_id = paris_de_ma_fenetre_colette.spacy.4
+# text = Vous allâtes
+180	Vous	_	PRON	_	Number=Plur|Person=2|PronType=Prs	_	_	_	_
+181	allâtes	_	VERB	_	Mood=Ind|Number=Plur|Person=2|Tense=Past	_	_	_	_
+
+
+
+# sent_id = paris_de_ma_fenetre_colette.spacy.4
+# text = Vous allâtes
+180	Vous	_	PRON	_	Number=Plur|Person=2|PronType=Prs	_	_	_	_
+181	allâtes	_	VERB	_	Mood=Ind|Number=Plur|Person=2|Tense=Past	_	_	_	_
+
+
+
+# sent_id = paris_de_ma_fenetre_colette.spacy.4
+# text = Vous allâtes
+180	Vous	_	PRON	_	Number=Plur|Person=2|PronType=Prs	_	_	_	_
+181	allâtes	_	AUX	_	Mood=Ind|Number=Plur|Person=2|Tense=Past	_	_	_
+
+
+
+# sent_id = paris_de_ma_fenetre_colette.spacy.4
+# text = tu allas
+180	tu	_	PRON	_	Number=Sing|Person=2|PronType=Prs	_	_	_	_
+181	allas	_	VERB	_	Mood=Ind|Number=Sing|Person=2|Tense=Past	_	_	_	_
+
+
+
+# sent_id = paris_de_ma_fenetre_colette.spacy.4
+# text = tu allas
+180	tu	_	PRON	_	Number=Sing|Person=2|PronType=Prs	_	_	_	_
+181	allas	_	VERB	_	Mood=Ind|Number=Sing|Person=2|Tense=Past	_	_	_	_
+
+
+
+# sent_id = paris_de_ma_fenetre_colette.spacy.4
+# text = tu allas
+180	tu	_	PRON	_	Number=Sing|Person=2|PronType=Prs	_	_	_	_
+181	allas	_	AUX	_	Mood=Ind|Number=Sing|Person=2|Tense=Past	_	_	_
+

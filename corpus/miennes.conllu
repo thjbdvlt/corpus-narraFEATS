@@ -1,0 +1,457 @@
+# sent_id = miennes.spacy.0
+# text = Derrière le cyprès une petite pièce de seigle étincelle d' un vert éclat printanier ; un grand ciel pâle d' avril couronne cette parcelle paisible de l' univers . C' est la mienne . \n Et ces chaises , ce sont les miennes ; les tiennes se trouvent au loin là-bas , elles sont près des miennes , mais les miennes sont bleues . \n Les tiennes sont vertes , comme la forêt . La forêt splendide , les arbres heureux . Mes arbres , tes arbres . Les siens .
+0	Derrière	_	ADP	_	_	_	_	_	_
+1	le	_	DET	_	Definite=Def|Number=Sing|PronType=Art	_	_	_	_
+2	cyprès	_	NOUN	_	Number=Sing	_	_	_	_
+3	une	_	DET	_	Definite=Ind|Number=Sing|PronType=Art	_	_	_	_
+4	petite	_	ADJ	_	Number=Sing	_	_	_	_
+5	pièce	_	NOUN	_	Number=Sing	_	_	_	_
+6	de	_	ADP	_	_	_	_	_	_
+7	seigle	_	NOUN	_	Number=Sing	_	_	_	_
+30	étincelle	_	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres	_	_	_	_
+9	d'	_	ADP	_	_	_	_	_	_
+10	un	_	DET	_	Definite=Ind|Number=Sing|PronType=Art	_	_	_	_
+11	vert	_	ADJ	_	Number=Sing	_	_	_	_
+12	éclat	_	NOUN	_	Number=Sing	_	_	_	_
+13	printanier	_	ADJ	_	Number=Sing	_	_	_	_
+14	;	_	PUNCT	_	_	_	_	_	_
+15	un	_	DET	_	Definite=Ind|Number=Sing|PronType=Art	_	_	_	_
+16	grand	_	ADJ	_	Number=Sing	_	_	_	_
+17	ciel	_	NOUN	_	Number=Sing	_	_	_	_
+18	pâle	_	ADJ	_	Number=Sing	_	_	_	_
+19	d'	_	ADP	_	_	_	_	_	_
+20	avril	_	NOUN	_	Number=Sing	_	_	_	_
+30	couronne	_	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres	_	_	_	_
+22	cette	_	DET	_	Number=Sing|PronType=Dem	_	_	_	_
+23	parcelle	_	NOUN	_	Number=Sing	_	_	_	_
+24	paisible	_	ADJ	_	Number=Sing	_	_	_	_
+25	de	_	ADP	_	_	_	_	_	_
+26	l'	_	DET	_	Definite=Def|Number=Sing|PronType=Art	_	_	_	_
+27	univers	_	NOUN	_	Number=Sing	_	_	_	_
+28	.	_	PUNCT	_	_	_	_	_	_
+29	C'	_	PRON	_	Number=Sing|Person=3|PronType=Dem	_	_	_	_
+30	est	_	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres	_	_	_	_
+31	la	_	DET	_	Definite=Def|Number=Sing|PronType=Art	_	_	_	_
+32	mienne	_	NOUN	_	Number=Sing|Number[psor]=Sing|Person=1|Poss=Yes	_	_	_	_
+33	.	_	PUNCT	_	_	_	_	_	_
+34	\n	_	SPACE	_	_	_	_	_
+35	Et	_	CCONJ	_	_	_	_	_	_
+36	ces	_	DET	_	Number=Plur|PronType=Dem	_	_	_	_
+37	chaises	_	NOUN	_	Number=Plur	_	_	_	_
+38	,	_	PUNCT	_	_	_	_	_	_
+39	ce	_	PRON	_	Number=Sing|Person=3|PronType=Dem	_	_	_	_
+40	sont	_	VERB	_	Mood=Ind|Number=Plur|Person=3|Tense=Pres	_	_	_	_
+41	les	_	DET	_	Definite=Def|Number=Plur|PronType=Art	_	_	_	_
+32	miennes	_	NOUN	_	Number=Plur|Number[psor]=Sing|Person=1|Poss=Yes	_	_	_	_
+43	;	_	PUNCT	_	_	_	_	_	_
+44	les	_	DET	_	Definite=Def|Number=Plur|PronType=Art	_	_	_	_
+32	tiennes	_	NOUN	_	Number=Plur|Number[psor]=Sing|Person=2|Poss=Yes	_	_	_	_
+46	se	_	PRON	_	Person=3|PronType=Prs|Reflex=Yes	_	_	_	_
+47	trouvent	_	VERB	_	Mood=Ind|Number=Plur|Person=3|Tense=Pres	_	_	_	_
+48	au	_	ADP	_	Definite=Def|Number=Sing|PronType=Art	_	_	_	_
+49	loin	_	ADV	_	_	_	_	_	_
+50	là-bas	_	ADV	_	_	_	_	_	_
+51	,	_	PUNCT	_	_	_	_	_	_
+52	elles	_	PRON	_	Number=Plur|Person=3|PronType=Prs	_	_	_	_
+53	sont	_	VERB	_	Mood=Ind|Number=Plur|Person=3|Tense=Pres	_	_	_	_
+54	près	_	ADV	_	_	_	_	_	_
+55	des	_	DET	_	Definite=Ind|Number=Plur|PronType=Art	_	_	_	_
+32	miennes	_	NOUN	_	Number=Plur|Number[psor]=Sing|Person=1|Poss=Yes	_	_	_	_
+57	,	_	PUNCT	_	_	_	_	_	_
+58	mais	_	CCONJ	_	_	_	_	_	_
+59	les	_	DET	_	Definite=Def|Number=Plur|PronType=Art	_	_	_	_
+32	miennes	_	NOUN	_	Number=Plur|Number[psor]=Sing|Person=1|Poss=Yes	_	_	_	_
+61	sont	_	VERB	_	Mood=Ind|Number=Plur|Person=3|Tense=Pres	_	_	_	_
+62	bleues	_	ADJ	_	Number=Plur	_	_	_	_
+63	.	_	PUNCT	_	_	_	_	_	_
+64	\n	_	SPACE	_	_	_	_	_
+65	Les	_	DET	_	Definite=Def|Number=Plur|PronType=Art	_	_	_	_
+32	tiennes	_	NOUN	_	Number=Plur|Number[psor]=Sing|Person=2|Poss=Yes	_	_	_	_
+67	sont	_	VERB	_	Mood=Ind|Number=Plur|Person=3|Tense=Pres	_	_	_	_
+68	vertes	_	ADJ	_	Number=Plur	_	_	_	_
+69	,	_	PUNCT	_	_	_	_	_	_
+70	comme	_	SCONJ	_	_	_	_	_	_
+71	la	_	DET	_	Definite=Def|Number=Sing|PronType=Art	_	_	_	_
+72	forêt	_	NOUN	_	Number=Sing	_	_	_	_
+73	.	_	PUNCT	_	_	_	_	_	_
+74	La	_	DET	_	Definite=Def|Number=Sing|PronType=Art	_	_	_	_
+75	forêt	_	NOUN	_	Number=Sing	_	_	_	_
+76	splendide	_	ADJ	_	Number=Sing	_	_	_	_
+77	,	_	PUNCT	_	_	_	_	_	_
+78	les	_	DET	_	Definite=Def|Number=Plur|PronType=Art	_	_	_	_
+79	arbres	_	NOUN	_	Number=Plur	_	_	_	_
+80	heureux	_	ADJ	_	Number=Plur	_	_	_	_
+81	.	_	PUNCT	_	_	_	_	_	_
+82	Mes	_	DET	_	Number=Plur|Number[psor]=Sing|Person=1|Poss=Yes	_	_	_	_
+83	arbres	_	NOUN	_	Number=Plur	_	_	_	_
+84	,	_	PUNCT	_	_	_	_	_	_
+85	tes	_	DET	_	Number=Plur|Number[psor]=Sing|Person=2|Poss=Yes	_	_	_	_
+86	arbres	_	NOUN	_	Number=Plur	_	_	_	_
+87	.	_	PUNCT	_	_	_	_	_	_
+88	Les	_	DET	_	Definite=Def|Number=Plur|PronType=Art	_	_	_	_
+32	siens	_	NOUN	_	Number=Plur|Number[psor]=Sing|Person=3|Poss=Yes	_	_	_	_
+90	.	_	PUNCT	_	_	_	_	_	_
+
+
+
+# text = Les sien·nes , les siennes , , les nôtres . \n — Pourquoi savons -nous que nous sommes en France ? dit mon compagnon . Personne n' en sait rien ? Essaie peut-être de lire plus fort . \n Tu pourrais essayer de lire plus fort .
+88	Les	_	DET	_	Definite=Def|Number=Plur|PronType=Art	_	_	_	_
+32	sien·nes	_	NOUN	_	Number=Plur|Number[psor]=Sing|Person=3|Poss=Yes	_	_	_
+90	,	_	PUNCT	_	_	_	_	_	_
+88	les	_	DET	_	Definite=Def|Number=Plur|PronType=Art	_	_	_	_
+32	siennes	_	NOUN	_	Number=Plur|Number[psor]=Sing|Person=3|Poss=Yes	_	_	_	_
+90	,	_	PUNCT	_	_	_	_	_	_
+90	,	_	PUNCT	_	_	_	_	_	_
+91	les	_	DET	_	Definite=Def|Number=Plur|PronType=Art	_	_	_	_
+92	nôtres	_	NOUN	_	Number=Plur|Number[psor]=Plur|Person=1|Poss=Yes	_	_	_	_
+93	.	_	PUNCT	_	_	_	_	_	_
+94	\n	_	SPACE	_	_	_	_	_
+95	—	_	PUNCT	_	_	_	_	_	_
+96	Pourquoi	_	ADV	_	_	_	_	_	_
+97	savons	_	VERB	_	Mood=Ind|Number=Plur|Person=1|Tense=Pres	_	_	_	_
+98	-nous	_	PRON	_	Number=Plur|Person=1|PronType=Prs	_	_	_	_
+99	que	_	SCONJ	_	_	_	_	_
+100	nous	_	PRON	_	Number=Plur|Person=1|PronType=Prs	_	_	_	_
+101	sommes	_	VERB	_	Mood=Ind|Number=Plur|Person=1|Tense=Pres	_	_	_	_
+102	en	_	ADP	_	_	_	_	_	_
+103	France	_	NOUN	_	Number=Sing	_	_	_	_
+104	?	_	PUNCT	_	_	_	_	_	_
+105	dit	_	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Past	_	_	_	_
+106	mon	_	DET	_	Number=Sing|Number[psor]=Sing|Person=1|Poss=Yes	_	_	_	_
+107	compagnon	_	NOUN	_	Number=Sing	_	_	_	_
+108	.	_	PUNCT	_	_	_	_	_	_
+109	Personne	_	PRON	_	Number=Sing|Polarity=Neg|PronType=Ind	_	_	_
+110	n'	_	ADV	_	Polarity=Neg	_	_	_	_
+111	en	_	PRON	_	Person=3	_	_	_	_
+112	sait	_	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres	_	_	_	_
+113	rien	_	PRON	_	Number=Sing|Polarity=Neg	_	_	_	_
+114	?	_	PUNCT	_	_	_	_	_	_
+115	Essaie	_	VERB	_	Mood=Imp|Number=Sing|Person=2|Tense=Pres	_	_	_
+116	peut-être	_	ADV	_	_	_	_	_	_
+117	de	_	ADP	_	_	_	_	_	_
+118	lire	_	VERB	_	VerbForm=Inf	_	_	_	_
+119	plus	_	ADV	_	_	_	_	_	_
+120	fort	_	ADV	_	_	_	_	_
+121	.	_	PUNCT	_	_	_	_	_	_
+122	\n	_	SPACE	_	_	_	_	_
+123	Tu	_	PRON	_	Number=Sing|Person=2|PronType=Prs	_	_	_	_
+124	pourrais	_	VERB	_	Mood=Cnd|Number=Sing|Person=2|Tense=Pres	_	_	_	_
+125	essayer	_	VERB	_	VerbForm=Inf	_	_	_	_
+126	de	_	ADP	_	_	_	_	_	_
+127	lire	_	VERB	_	VerbForm=Inf	_	_	_	_
+128	plus	_	ADV	_	_	_	_	_	_
+129	fort	_	ADV	_	_	_	_	_
+130	.	_	PUNCT	_	_	_	_	_	_
+
+
+
+# sent_id = miennes.spacy.1
+# text = Tu parais bien , tu parais à l' heure . Il paraît que cela est plutôt pas mal . Tu apparaîs comme ci , comme ça .
+0	Tu	_	PRON	_	Number=Sing|Person=2|PronType=Prs	_	_	_	_
+1	parais	_	VERB	_	Mood=Ind|Number=Sing|Person=2|Tense=Pres	_	_	_
+2	bien	_	ADV	_	_	_	_	_	_
+3	,	_	PUNCT	_	_	_	_	_	_
+4	tu	_	PRON	_	Number=Sing|Person=2|PronType=Prs	_	_	_	_
+5	parais	_	VERB	_	Mood=Ind|Number=Sing|Person=2|Tense=Pres	_	_	_
+6	à	_	ADP	_	_	_	_	_	_
+7	l'	_	DET	_	Definite=Def|Number=Sing|PronType=Art	_	_	_	_
+8	heure	_	NOUN	_	Number=Sing	_	_	_	_
+9	.	_	PUNCT	_	_	_	_	_	_
+10	Il	_	PRON	_	Number=Sing|Person=3|PronType=Prs	_	_	_	_
+11	paraît	_	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres	_	_	_	_
+12	que	_	SCONJ	_	_	_	_	_	_
+13	cela	_	PRON	_	Number=Sing|Person=3|PronType=Dem	_	_	_	_
+14	est	_	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres	_	_	_	_
+15	plutôt	_	ADV	_	_	_	_	_	_
+16	pas	_	ADV	_	Polarity=Neg	_	_	_	_
+17	mal	_	ADV	_	_	_	_	_	_
+18	.	_	PUNCT	_	_	_	_	_	_
+19	Tu	_	PRON	_	Number=Sing|Person=2|PronType=Prs	_	_	_	_
+20	apparaîs	_	VERB	_	Mood=Ind|Number=Sing|Person=2|Tense=Pres	_	_	_
+21	comme	_	SCONJ	_	_	_	_	_	_
+22	ci	_	PRON	_	Number=Sing|Person=3|PronType=Dem	_	_	_	_
+23	,	_	PUNCT	_	_	_	_	_	_
+24	comme	_	SCONJ	_	_	_	_	_	_
+25	ça	_	PRON	_	Number=Sing|Person=3|PronType=Dem	_	_	_	_
+26	.	_	PUNCT	_	_	_	_	_	_
+
+
+
+# sent_id = miennes.spacy.2
+# text = Viens donc par ici .
+0	Viens	_	VERB	_	Mood=Imp|Number=Sing|Person=2|Tense=Pres	_	_	_	_
+1	donc	_	CCONJ	_	_	_	_	_	_
+2	par	_	ADP	_	_	_	_	_	_
+3	ici	_	ADV	_	_	_	_	_	_
+4	.	_	PUNCT	_	_	_	_	_	_
+
+
+
+# sent_id = miennes.spacy.3
+# text = Lis david antin , tu verras c' est le feu . je kiffe de ouf perso .
+0	Lis	_	NOUN	_	Number=Plur	_	_	_	_
+1	david	_	PROPN	_	_	_	_	_	_
+2	antin	_	NOUN	_	Number=Sing	_	_	_	_
+3	,	_	PUNCT	_	_	_	_	_	_
+4	tu	_	PRON	_	Number=Sing|Person=2|PronType=Prs	_	_	_	_
+5	verras	_	VERB	_	Mood=Ind|Number=Sing|Person=2|Tense=Fut	_	_	_	_
+6	c'	_	PRON	_	Number=Sing|Person=3|PronType=Dem	_	_	_	_
+7	est	_	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres	_	_	_	_
+8	le	_	DET	_	Definite=Def|Number=Sing|PronType=Art	_	_	_	_
+9	feu	_	NOUN	_	Number=Sing	_	_	_	_
+10	.	_	PUNCT	_	_	_	_	_	_
+11	je	_	PRON	_	Number=Sing|Person=1|PronType=Prs	_	_	_	_
+12	kiffe	_	VERB	_	Mood=Ind|Number=Sing|Person=1|Tense=Pres	_	_	_	_
+13	de	_	ADP	_	_	_	_	_	_
+14	ouf	_	INTJ	_	_	_	_	_	_
+15	perso	_	ADJ	_	Number=Sing	_	_	_	_
+16	.	_	PUNCT	_	_	_	_	_	_
+
+
+
+# sent_id = miennes.spacy.4
+# text = Tu trouveras à cette adresse www.tenk.com des trucs super .
+0	Tu	_	PRON	_	Number=Sing|Person=2|PronType=Prs	_	_	_	_
+1	trouveras	_	VERB	_	Mood=Ind|Number=Sing|Person=2|Tense=Fut	_	_	_	_
+2	à	_	ADP	_	_	_	_	_	_
+3	cette	_	DET	_	Number=Sing|PronType=Dem	_	_	_	_
+4	adresse	_	NOUN	_	Number=Sing	_	_	_	_
+5	www.tenk.com	_	SYM	_	_	_	_	_
+6	des	_	DET	_	Definite=Ind|Number=Plur|PronType=Art	_	_	_
+7	trucs	_	NOUN	_	Number=Plur	_	_	_	_
+8	super	_	ADJ	_	Number=Plur	_	_	_
+9	.	_	PUNCT	_	_	_	_	_	_
+
+
+
+# sent_id = miennes.spacy.5
+# text = Et sur https://plante.com il y a aussi des trucs cool .
+0	Et	_	CCONJ	_	_	_	_	_	_
+1	sur	_	ADP	_	_	_	_	_	_
+2	https://plante.com	_	SYM	_	_	_	_	_
+3	il	_	PRON	_	Number=Sing|Person=3|PronType=Prs	_	_	_	_
+4	y	_	PRON	_	Person=3	_	_	_	_
+5	a	_	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres	_	_	_	_
+6	aussi	_	ADV	_	_	_	_	_	_
+7	des	_	DET	_	Definite=Ind|Number=Plur|PronType=Art	_	_	_	_
+8	trucs	_	NOUN	_	Number=Plur	_	_	_	_
+9	cool	_	ADJ	_	Number=Plur	_	_	_
+10	.	_	PUNCT	_	_	_	_	_	_
+
+
+
+# sent_id = miennes.spacy.6
+# text = Les miennes sont par là . Mes plantes sont à moi , mes plantes , les miennes . \n Dans le frigo il y a les tiennes . Pense à tes plantes .
+0	Les	_	DET	_	Definite=Def|Number=Plur|PronType=Art	_	_	_	_
+1	miennes	_	NOUN	_	Number=Plur|Number[psor]=Sing|Person=1|Poss=Yes	_	_	_	_
+2	sont	_	VERB	_	Mood=Ind|Number=Plur|Person=3|Tense=Pres	_	_	_	_
+3	par	_	ADP	_	_	_	_	_	_
+4	là	_	ADV	_	_	_	_	_	_
+5	.	_	PUNCT	_	_	_	_	_	_
+6	Mes	_	DET	_	Number=Plur|Number[psor]=Sing|Person=1|Poss=Yes	_	_	_	_
+7	plantes	_	NOUN	_	Number=Plur	_	_	_	_
+8	sont	_	VERB	_	Mood=Ind|Number=Plur|Person=3|Tense=Pres	_	_	_	_
+9	à	_	ADP	_	_	_	_	_	_
+10	moi	_	PRON	_	Number=Sing|Person=1|PronType=Prs	_	_	_	_
+11	,	_	PUNCT	_	_	_	_	_	_
+12	mes	_	DET	_	Number=Plur|Number[psor]=Sing|Person=1|Poss=Yes	_	_	_	_
+13	plantes	_	NOUN	_	Number=Plur	_	_	_	_
+14	,	_	PUNCT	_	_	_	_	_	_
+15	les	_	DET	_	Definite=Def|Number=Plur|PronType=Art	_	_	_	_
+16	miennes	_	NOUN	_	Number=Plur|Number[psor]=Sing|Person=1|Poss=Yes	_	_	_
+17	.	_	PUNCT	_	_	_	_	_	_
+18	\n	_	SPACE	_	_	_	_	_
+19	Dans	_	ADP	_	_	_	_	_	_
+20	le	_	DET	_	Definite=Def|Number=Sing|PronType=Art	_	_	_	_
+21	frigo	_	NOUN	_	Number=Sing	_	_	_	_
+22	il	_	PRON	_	Number=Sing|Person=3|PronType=Prs	_	_	_	_
+23	y	_	PRON	_	Person=3	_	_	_	_
+24	a	_	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres	_	_	_	_
+25	les	_	DET	_	Definite=Def|Number=Plur|PronType=Art	_	_	_	_
+32	tiennes	_	NOUN	_	Number=Plur|Number[psor]=Sing|Person=2|Poss=Yes	_	_	_	_
+27	.	_	PUNCT	_	_	_	_	_	_
+28	Pense	_	VERB	_	Mood=Imp|Number=Sing|Person=2|Tense=Pres	_	_	_	_
+29	à	_	ADP	_	_	_	_	_	_
+30	tes	_	DET	_	Number=Plur|Number[psor]=Sing|Person=2|Poss=Yes	_	_	_	_
+31	plantes	_	NOUN	_	Number=Plur	_	_	_	_
+32	.	_	PUNCT	_	_	_	_	_	_
+
+
+
+# sent_id = miennes.spacy.7
+# text = Les nôtres sont ici . Les vôtres sont là .
+0	Les	_	DET	_	Definite=Def|Number=Plur|PronType=Art	_	_	_	_
+1	nôtres	_	NOUN	_	Number=Plur|Number[psor]=Plur|Person=1|Poss=Yes	_	_	_	_
+2	sont	_	VERB	_	Mood=Ind|Number=Plur|Person=3|Tense=Pres	_	_	_	_
+3	ici	_	ADV	_	_	_	_	_	_
+4	.	_	PUNCT	_	_	_	_	_	_
+5	Les	_	DET	_	Definite=Def|Number=Plur|PronType=Art	_	_	_	_
+6	vôtres	_	NOUN	_	Number=Plur|Number[psor]=Plur|Person=2|Poss=Yes	_	_	_	_
+7	sont	_	VERB	_	Mood=Ind|Number=Plur|Person=3|Tense=Pres	_	_	_	_
+8	là	_	ADV	_	_	_	_	_	_
+9	.	_	PUNCT	_	_	_	_	_	_
+
+
+
+# sent_id = miennes.spacy.8
+# text = ça ce n' est pas les nôtres ni les vôtres . c' est notre maison nos murs et vos toits que la pluie euh dont la pluie nous protège euh qui nous protège de la pluie . \n
+0	ça	_	PRON	_	Number=Sing|Person=3|PronType=Dem	_	_	_	_
+1	ce	_	PRON	_	Number=Sing|Person=3|PronType=Dem	_	_	_	_
+2	n'	_	ADV	_	Polarity=Neg	_	_	_	_
+3	est	_	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres	_	_	_	_
+4	pas	_	ADV	_	Polarity=Neg	_	_	_	_
+5	les	_	DET	_	Definite=Def|Number=Plur|PronType=Art	_	_	_	_
+6	nôtres	_	NOUN	_	Number=Plur|Number[psor]=Plur|Person=1|Poss=Yes	_	_	_	_
+7	ni	_	CCONJ	_	_	_	_	_	_
+8	les	_	DET	_	Definite=Def|Number=Plur|PronType=Art	_	_	_	_
+9	vôtres	_	NOUN	_	Number=Plur|Number[psor]=Plur|Person=2|Poss=Yes	_	_	_	_
+10	.	_	PUNCT	_	_	_	_	_	_
+11	c'	_	PRON	_	Number=Sing|Person=3|PronType=Dem	_	_	_	_
+12	est	_	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres	_	_	_	_
+13	notre	_	DET	_	Number=Sing|Number[psor]=Plur|Person=1|Poss=Yes	_	_	_	_
+14	maison	_	NOUN	_	Number=Sing	_	_	_	_
+15	nos	_	DET	_	Number=Plur|Number[psor]=Plur|Person=1|Poss=Yes	_	_	_	_
+16	murs	_	NOUN	_	Number=Plur	_	_	_	_
+17	et	_	CCONJ	_	_	_	_	_	_
+18	vos	_	DET	_	Number=Plur|Number[psor]=Plur|Person=2|Poss=Yes	_	_	_	_
+19	toits	_	NOUN	_	Number=Plur	_	_	_	_
+20	que	_	SCONJ	_	_	_	_	_	_
+21	la	_	DET	_	Definite=Def|Number=Sing|PronType=Art	_	_	_	_
+22	pluie	_	NOUN	_	Number=Sing	_	_	_	_
+23	euh	_	INTJ	_	_	_	_	_	_
+24	dont	_	PRON	_	PronType=Rel	_	_	_	_
+25	la	_	DET	_	Definite=Def|Number=Sing|PronType=Art	_	_	_	_
+26	pluie	_	NOUN	_	Number=Sing	_	_	_	_
+27	nous	_	PRON	_	Number=Plur|Person=1|PronType=Prs	_	_	_	_
+28	protège	_	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres	_	_	_	_
+29	euh	_	INTJ	_	_	_	_	_	_
+30	qui	_	PRON	_	PronType=Rel	_	_	_	_
+31	nous	_	PRON	_	Number=Plur|Person=1|PronType=Prs	_	_	_	_
+32	protège	_	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres	_	_	_	_
+33	de	_	ADP	_	_	_	_	_	_
+34	la	_	DET	_	Definite=Def|Number=Sing|PronType=Art	_	_	_	_
+35	pluie	_	NOUN	_	Number=Sing	_	_	_	_
+36	.	_	PUNCT	_	_	_	_	_	_
+37	\n	_	SPACE	_	_	_	_	_
+
+
+
+# sent_id = miennes.spacy.9
+# text = Les tien·nes , les mien·nes , les miens , les siens , les nôtres
+88	Les	_	DET	_	Definite=Def|Number=Plur|PronType=Art	_	_	_	_
+32	tien·nes	_	NOUN	_	Number=Plur|Number[psor]=Sing|Person=2|Poss=Yes	_	_	_
+90	,	_	PUNCT	_	_	_	_	_	_
+88	les	_	DET	_	Definite=Def|Number=Plur|PronType=Art	_	_	_	_
+32	mien·nes	_	NOUN	_	Number=Plur|Number[psor]=Sing|Person=1|Poss=Yes	_	_	_
+90	,	_	PUNCT	_	_	_	_	_	_
+88	les	_	DET	_	Definite=Def|Number=Plur|PronType=Art	_	_	_	_
+32	miens	_	NOUN	_	Number=Plur|Number[psor]=Sing|Person=1|Poss=Yes	_	_	_
+90	,	_	PUNCT	_	_	_	_	_	_
+88	les	_	DET	_	Definite=Def|Number=Plur|PronType=Art	_	_	_	_
+32	siens	_	NOUN	_	Number=Plur|Number[psor]=Sing|Person=3|Poss=Yes	_	_	_	_
+90	,	_	PUNCT	_	_	_	_	_	_
+91	les	_	DET	_	Definite=Def|Number=Plur|PronType=Art	_	_	_	_
+92	nôtres	_	NOUN	_	Number=Plur|Number[psor]=Plur|Person=1|Poss=Yes	_	_	_	_
+
+
+
+# sent_id = miennes.spacy.10
+# text = http://depuis.org/ https://vite.fr http://depuis.org/ https://depuis.org/ www.ici.org/ www.loin.org/ www.partout.org/ www.des_feuilles_vertes.org/rien#quoi http://wiki-iic.org/rien#quoi https://partout.org/rien#quoi
+2	http://depuis.org/	_	SYM	_	_	_	_	_
+2	https://vite.fr	_	SYM	_	_	_	_	_
+2	http://depuis.org/	_	SYM	_	_	_	_	_
+2	https://depuis.org/	_	SYM	_	_	_	_	_
+2	www.ici.org/	_	SYM	_	_	_	_	_
+2	www.loin.org/	_	SYM	_	_	_	_	_
+2	www.partout.org/	_	SYM	_	_	_	_	_
+2	www.des_feuilles_vertes.org/rien#quoi	_	SYM	_	_	_	_	_
+2	http://wiki-iic.org/rien#quoi	_	SYM	_	_	_	_	_
+2	https://partout.org/rien#quoi	_	SYM	_	_	_	_	_
+
+
+
+# sent_id = miennes.spacy.11
+# text = http://aluei.org/ https://seie.fr http://depuis.org/ https://depuis.org/
+2	http://aluei.org/	_	SYM	_	_	_	_	_
+2	https://seie.fr	_	SYM	_	_	_	_	_
+2	http://depuis.org/	_	SYM	_	_	_	_	_
+2	https://depuis.org/	_	SYM	_	_	_	_	_
+
+
+
+# sent_id = miennes.spacy.12
+# text = www.ici.org/ www.loin.org/ www.partout.org/ www.des_feuilles_vertes.org/rien#quoi http://wiki-iic.org/rien#quoi
+2	www.ici.org/	_	SYM	_	_	_	_	_
+2	www.loin.org/	_	SYM	_	_	_	_	_
+2	www.partout.org/	_	SYM	_	_	_	_	_
+2	www.des_feuilles_vertes.org/rien#quoi	_	SYM	_	_	_	_	_
+2	http://wiki-iic.org/rien#quoi	_	SYM	_	_	_	_	_
+
+
+
+# sent_id = miennes.spacy.13
+# text = bonjour :-)
+11	bonjour	_	INTJ	_	_	_	_	_	_
+2	:-)	_	PUNCT	_	_	_	_	_
+
+
+
+# sent_id = miennes.spacy.13
+# text = hello xd
+11	hello	_	INTJ	_	_	_	_	_	_
+2	xd	_	PUNCT	_	_	_	_	_
+
+
+
+# sent_id = miennes.spacy.13
+# text = hello ^^
+11	hello	_	INTJ	_	_	_	_	_	_
+2	^^	_	PUNCT	_	_	_	_	_
+
+
+
+# sent_id = miennes.spacy.13
+# text = ô.ô
+2	ô.ô	_	PUNCT	_	_	_	_	_
+
+
+
+# sent_id = miennes.spacy.13
+# text = yo :/
+11	yo	_	INTJ	_	_	_	_	_	_
+2	:/	_	PUNCT	_	_	_	_	_
+
+
+
+# sent_id = miennes.spacy.13
+# text = bonjour :-)
+11	bonjour	_	INTJ	_	_	_	_	_	_
+2	:-)	_	PUNCT	_	_	_	_	_
+
+
+
+# sent_id = miennes.spacy.13
+# text = coucou xd
+11	coucou	_	INTJ	_	_	_	_	_	_
+2	xd	_	PUNCT	_	_	_	_	_
+
+
+
+# sent_id = miennes.spacy.13
+# text = hello ^^
+11	hello	_	INTJ	_	_	_	_	_	_
+2	^^	_	PUNCT	_	_	_	_	_
+
+
+
+# sent_id = miennes.spacy.13
+# text = ô.ô
+2	ô.ô	_	PUNCT	_	_	_	_	_
+
+
+
+# sent_id = miennes.spacy.13
+# text = yo :/
+11	yo	_	INTJ	_	_	_	_	_	_
+2	:/	_	PUNCT	_	_	_	_	_
+
