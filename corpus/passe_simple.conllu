@@ -1,0 +1,665 @@
+# text = À contrecœur , nous prîmes la décision de partir .
+1	À	_	ADP	_	_	_	_	_	_
+2	contrecœur	_	NOUN	_	Number=Sing	_	_	_	_
+3	,	_	PUNCT	_	_	_	_	_	_
+4	nous	_	PRON	_	Number=Plur|Person=1|PronType=Prs	_	_	_	_
+5	prîmes	_	VERB	_	Mood=Ind|Number=Plur|Person=1|Tense=Past	_	_	_	_
+6	la	_	DET	_	Definite=Def|Number=Sing|PronType=Art	_	_	_	_
+7	décision	_	NOUN	_	Number=Sing	_	_	_	_
+8	de	_	ADP	_	_	_	_	_	_
+9	partir	_	VERB	_	VerbForm=Inf	_	_	_	_
+10	.	_	PUNCT	_	_	_	_	_	_
+
+
+
+# text = À peine nous chantâmes que les oiseaux se mirent à chanter avec nous .
+1	À	_	ADP	_	_	_	_	_	_
+2	peine	_	NOUN	_	Number=Sing	_	_	_	_
+3	nous	_	PRON	_	Number=Plur|Person=1|PronType=Prs	_	_	_	_
+4	chantâmes	_	VERB	_	Mood=Ind|Number=Plur|Person=1|Tense=Past	_	_	_	_
+5	que	_	SCONJ	_	_	_	_	_	_
+6	les	_	DET	_	Definite=Def|Number=Plur|PronType=Art	_	_	_	_
+7	oiseaux	_	NOUN	_	Number=Plur	_	_	_	_
+8	se	_	PRON	_	Person=3|PronType=Prs|Reflex=Yes	_	_	_	_
+9	mirent	_	VERB	_	Mood=Ind|Number=Plur|Person=3|Tense=Past	_	_	_	_
+10	à	_	ADP	_	_	_	_	_	_
+11	chanter	_	VERB	_	VerbForm=Inf	_	_	_	_
+12	avec	_	ADP	_	_	_	_	_	_
+13	nous	_	PRON	_	Number=Plur|Person=1|PronType=Prs	_	_	_	_
+14	.	_	PUNCT	_	_	_	_	_	_
+
+
+
+# text = À peine nous mangions notre repas que le téléphone sonna .
+1	À	_	ADP	_	_	_	_	_	_
+2	peine	_	NOUN	_	Number=Sing	_	_	_	_
+3	nous	_	PRON	_	Number=Plur|Person=1|PronType=Prs	_	_	_	_
+4	mangions	_	VERB	_	Mood=Ind|Number=Plur|Person=1|Tense=Past	_	_	_	_
+5	notre	_	DET	_	Number=Sing|Number[psor]=Plur|Person=1|Poss=Yes	_	_	_	_
+6	repas	_	NOUN	_	Number=Sing	_	_	_	_
+7	que	_	SCONJ	_	_	_	_	_	_
+8	le	_	DET	_	Definite=Def|Number=Sing|PronType=Art	_	_	_	_
+9	téléphone	_	NOUN	_	Number=Sing	_	_	_	_
+10	sonna	_	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Past	_	_	_	_
+11	.	_	PUNCT	_	_	_	_	_	_
+
+
+
+# text = À peine nous partîmes que le soleil se leva .
+1	À	_	ADP	_	_	_	_	_	_
+2	peine	_	NOUN	_	Number=Sing	_	_	_	_
+3	nous	_	PRON	_	Number=Plur|Person=1|PronType=Prs	_	_	_	_
+4	partîmes	_	VERB	_	Mood=Ind|Number=Plur|Person=1|Tense=Past	_	_	_	_
+5	que	_	SCONJ	_	_	_	_	_	_
+6	le	_	DET	_	Definite=Def|Number=Sing|PronType=Art	_	_	_	_
+7	soleil	_	NOUN	_	Number=Sing	_	_	_	_
+8	se	_	PRON	_	Person=3|PronType=Prs|Reflex=Yes	_	_	_	_
+9	leva	_	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Past	_	_	_	_
+10	.	_	PUNCT	_	_	_	_	_	_
+
+
+
+# text = À peine vous vendîtes votre voiture que vous le regrettâtes .
+1	À	_	ADP	_	_	_	_	_	_
+2	peine	_	NOUN	_	Number=Sing	_	_	_	_
+3	vous	_	PRON	_	Number=Plur|Person=2|PronType=Prs	_	_	_	_
+4	vendîtes	_	VERB	_	Mood=Ind|Number=Plur|Person=2|Tense=Past	_	_	_	_
+5	votre	_	DET	_	Number=Sing|Number[psor]=Plur|Person=2|Poss=Yes	_	_	_	_
+6	voiture	_	NOUN	_	Number=Sing	_	_	_	_
+7	que	_	SCONJ	_	_	_	_	_	_
+8	vous	_	PRON	_	Number=Plur|Person=2|PronType=Prs	_	_	_	_
+9	le	_	PRON	_	Definite=Def|Number=Sing|Person=3|PronType=Art	_	_	_	_
+10	regrettâtes	_	VERB	_	Mood=Ind|Number=Plur|Person=2|Tense=Past	_	_	_	_
+11	.	_	PUNCT	_	_	_	_	_	_
+
+
+
+# text = À regret , nous parlâmes de nos regrets passés .
+1	À	_	ADP	_	_	_	_	_	_
+2	regret	_	NOUN	_	Number=Sing	_	_	_	_
+3	,	_	PUNCT	_	_	_	_	_	_
+4	nous	_	PRON	_	Number=Plur|Person=1|PronType=Prs	_	_	_	_
+5	parlâmes	_	VERB	_	Mood=Ind|Number=Plur|Person=1|Tense=Past	_	_	_	_
+6	de	_	ADP	_	_	_	_	_	_
+7	nos	_	DET	_	Number=Plur|Number[psor]=Plur|Person=1|Poss=Yes	_	_	_	_
+8	regrets	_	NOUN	_	Number=Plur	_	_	_	_
+9	passés	_	ADJ	_	Number=Plur	_	_	_	_
+10	.	_	PUNCT	_	_	_	_	_	_
+
+
+
+# text = À regret , vous choisîtes de ne pas venir à la fête .
+1	À	_	ADP	_	_	_	_	_	_
+2	regret	_	NOUN	_	Number=Sing	_	_	_	_
+3	,	_	PUNCT	_	_	_	_	_	_
+4	vous	_	PRON	_	Number=Plur|Person=2|PronType=Prs	_	_	_	_
+5	choisîtes	_	VERB	_	Mood=Ind|Number=Plur|Person=2|Tense=Past	_	_	_	_
+6	de	_	ADP	_	_	_	_	_	_
+7	ne	_	ADV	_	Polarity=Neg	_	_	_	_
+8	pas	_	ADV	_	Polarity=Neg	_	_	_	_
+9	venir	_	VERB	_	VerbForm=Inf	_	_	_	_
+10	à	_	ADP	_	_	_	_	_	_
+11	la	_	DET	_	Definite=Def|Number=Sing|PronType=Art	_	_	_	_
+12	fête	_	NOUN	_	Number=Sing	_	_	_	_
+13	.	_	PUNCT	_	_	_	_	_	_
+
+
+
+# text = À regret , vous finîtes par admettre votre erreur .
+1	À	_	ADP	_	_	_	_	_	_
+2	regret	_	NOUN	_	Number=Sing	_	_	_	_
+3	,	_	PUNCT	_	_	_	_	_	_
+4	vous	_	PRON	_	Number=Plur|Person=2|PronType=Prs	_	_	_	_
+5	finîtes	_	VERB	_	Mood=Ind|Number=Plur|Person=2|Tense=Past	_	_	_	_
+6	par	_	ADP	_	_	_	_	_	_
+7	admettre	_	VERB	_	VerbForm=Inf	_	_	_	_
+8	votre	_	DET	_	Number=Sing|Number[psor]=Plur|Person=2|Poss=Yes	_	_	_	_
+9	erreur	_	NOUN	_	Number=Sing	_	_	_	_
+10	.	_	PUNCT	_	_	_	_	_	_
+
+
+
+# text = Brusquement nous jouâmes notre dernière carte .
+1	Brusquement	_	ADV	_	_	_	_	_	_
+2	nous	_	PRON	_	Number=Plur|Person=1|PronType=Prs	_	_	_	_
+3	jouâmes	_	VERB	_	Mood=Ind|Number=Plur|Person=1|Tense=Past	_	_	_	_
+4	notre	_	DET	_	Number=Sing|Number[psor]=Plur|Person=1|Poss=Yes	_	_	_	_
+5	dernière	_	ADJ	_	NumType=Ord|Number=Sing	_	_	_	_
+6	carte	_	NOUN	_	Number=Sing	_	_	_	_
+7	.	_	PUNCT	_	_	_	_	_	_
+
+
+
+# text = Brusquement nous nageâmes jusqu' au rivage .
+1	Brusquement	_	ADV	_	_	_	_	_	_
+2	nous	_	PRON	_	Number=Plur|Person=1|PronType=Prs	_	_	_	_
+3	nageâmes	_	VERB	_	Mood=Ind|Number=Plur|Person=1|Tense=Past	_	_	_	_
+4	jusqu'	_	ADP	_	_	_	_	_	_
+5	au	_	ADP	_	Definite=Def|Number=Sing|PronType=Art	_	_	_	_
+6	rivage	_	NOUN	_	Number=Sing	_	_	_	_
+7	.	_	PUNCT	_	_	_	_	_	_
+
+
+
+# text = Brusquement vous choisîtes de tout changer dans votre vie .
+1	Brusquement	_	ADV	_	_	_	_	_	_
+2	vous	_	PRON	_	Number=Plur|Person=2|PronType=Prs	_	_	_	_
+3	choisîtes	_	VERB	_	Mood=Ind|Number=Plur|Person=1|Tense=Past	_	_	_	_
+4	de	_	ADP	_	_	_	_	_	_
+5	tout	_	PRON	_	Definite=Ind|Number=Sing|Person=3	_	_	_	_
+6	changer	_	VERB	_	VerbForm=Inf	_	_	_	_
+7	dans	_	ADP	_	_	_	_	_	_
+8	votre	_	DET	_	Number=Sing|Number[psor]=Plur|Person=2|Poss=Yes	_	_	_	_
+9	vie	_	NOUN	_	Number=Sing	_	_	_	_
+10	.	_	PUNCT	_	_	_	_	_	_
+
+
+
+# text = Discrètement nous jouâmes aux cartes pendant la soirée .
+1	Discrètement	_	ADV	_	_	_	_	_	_
+2	nous	_	PRON	_	Number=Plur|Person=1|PronType=Prs	_	_	_	_
+3	jouâmes	_	VERB	_	Mood=Ind|Number=Plur|Person=1|Tense=Past	_	_	_	_
+4	aux	_	ADP	_	Definite=Def|Number=Plur|PronType=Art	_	_	_	_
+5	cartes	_	NOUN	_	Number=Plur	_	_	_	_
+6	pendant	_	ADP	_	_	_	_	_	_
+7	la	_	DET	_	Definite=Def|Number=Sing|PronType=Art	_	_	_	_
+8	soirée	_	NOUN	_	Number=Sing	_	_	_	_
+9	.	_	PUNCT	_	_	_	_	_	_
+
+
+
+# text = Discrètement vous courûtes pour rattraper le bus en retard .
+1	Discrètement	_	ADV	_	_	_	_	_	_
+2	vous	_	PRON	_	Number=Plur|Person=2|PronType=Prs	_	_	_	_
+3	courûtes	_	AUX	_	Mood=Ind|Number=Plur|Person=2|Tense=Past	_	_	_	_
+4	pour	_	ADP	_	_	_	_	_	_
+5	rattraper	_	VERB	_	VerbForm=Inf	_	_	_	_
+6	le	_	DET	_	Definite=Def|Number=Sing|PronType=Art	_	_	_	_
+7	bus	_	NOUN	_	Number=Plur	_	_	_	_
+8	en	_	ADP	_	_	_	_	_	_
+9	retard	_	NOUN	_	Number=Sing	_	_	_	_
+10	.	_	PUNCT	_	_	_	_	_	_
+
+
+
+# text = Discrètement vous offrîtes un cadeau symbolique à votre ami .
+1	Discrètement	_	ADV	_	_	_	_	_	_
+2	vous	_	PRON	_	Number=Plur|Person=2|PronType=Prs	_	_	_	_
+3	offrîtes	_	VERB	_	Mood=Ind|Number=Plur|Person=2|Tense=Past	_	_	_	_
+4	un	_	DET	_	Definite=Ind|Number=Sing|PronType=Art	_	_	_	_
+5	cadeau	_	NOUN	_	Number=Sing	_	_	_	_
+6	symbolique	_	ADJ	_	Number=Sing	_	_	_	_
+7	à	_	ADP	_	_	_	_	_	_
+8	votre	_	DET	_	Number=Sing|Number[psor]=Plur|Person=2|Poss=Yes	_	_	_	_
+9	ami	_	NOUN	_	Number=Sing	_	_	_	_
+10	.	_	PUNCT	_	_	_	_	_	_
+
+
+
+# text = D' un coup , nous chantâmes à tue-tête .
+1	D'	_	ADP	_	_	_	_	_	_
+2	un	_	DET	_	Definite=Ind|Number=Sing|PronType=Art	_	_	_	_
+3	coup	_	NOUN	_	Number=Sing	_	_	_	_
+4	,	_	PUNCT	_	_	_	_	_	_
+5	nous	_	PRON	_	Number=Plur|Person=1|PronType=Prs	_	_	_	_
+6	chantâmes	_	VERB	_	Mood=Ind|Number=Plur|Person=1|Tense=Past	_	_	_	_
+7	à	_	ADP	_	_	_	_	_	_
+8	tue-tête	_	NOUN	_	Number=Sing	_	_	_	_
+9	.	_	PUNCT	_	_	_	_	_	_
+
+
+
+# text = D' un coup , nous trouvâmes un trésor caché dans le jardin .
+1	D'	_	ADP	_	_	_	_	_	_
+2	un	_	DET	_	Definite=Ind|Number=Sing|PronType=Art	_	_	_	_
+3	coup	_	NOUN	_	Number=Sing	_	_	_	_
+4	,	_	PUNCT	_	_	_	_	_	_
+5	nous	_	PRON	_	Number=Plur|Person=1|PronType=Prs	_	_	_	_
+6	trouvâmes	_	VERB	_	Mood=Ind|Number=Plur|Person=1|Tense=Past	_	_	_	_
+7	un	_	DET	_	Definite=Ind|Number=Sing|PronType=Art	_	_	_	_
+8	trésor	_	NOUN	_	Number=Sing	_	_	_	_
+9	caché	_	VERB	_	Number=Sing|Tense=Past|VerbForm=Part|Voice=Pass	_	_	_	_
+10	dans	_	ADP	_	_	_	_	_	_
+11	le	_	DET	_	Definite=Def|Number=Sing|PronType=Art	_	_	_	_
+12	jardin	_	NOUN	_	Number=Sing	_	_	_	_
+13	.	_	PUNCT	_	_	_	_	_	_
+
+
+
+# text = D' un coup , nous visitâmes un musée surprenant .
+1	D'	_	ADP	_	_	_	_	_	_
+2	un	_	DET	_	Definite=Ind|Number=Sing|PronType=Art	_	_	_	_
+3	coup	_	NOUN	_	Number=Sing	_	_	_	_
+4	,	_	PUNCT	_	_	_	_	_	_
+5	nous	_	PRON	_	Number=Plur|Person=1|PronType=Prs	_	_	_	_
+6	visitâmes	_	VERB	_	Mood=Ind|Number=Plur|Person=1|Tense=Past	_	_	_	_
+7	un	_	DET	_	Definite=Ind|Number=Sing|PronType=Art	_	_	_	_
+8	musée	_	NOUN	_	Number=Sing	_	_	_	_
+9	surprenant	_	ADJ	_	Number=Sing	_	_	_	_
+10	.	_	PUNCT	_	_	_	_	_	_
+
+
+
+# text = Jamais nous ne dansâmes aussi longtemps sans nous fatiguer .
+1	Jamais	_	ADV	_	Polarity=Neg	_	_	_	_
+2	nous	_	PRON	_	Number=Plur|Person=1|PronType=Prs	_	_	_	_
+3	ne	_	ADV	_	Polarity=Neg	_	_	_	_
+4	dansâmes	_	VERB	_	Mood=Ind|Number=Plur|Person=1|Tense=Past	_	_	_	_
+5	aussi	_	ADV	_	_	_	_	_	_
+6	longtemps	_	ADV	_	_	_	_	_	_
+7	sans	_	ADP	_	Polarity=Neg	_	_	_	_
+8	nous	_	PRON	_	Number=Plur|Person=1|PronType=Prs	_	_	_	_
+9	fatiguer	_	VERB	_	VerbForm=Inf	_	_	_	_
+10	.	_	PUNCT	_	_	_	_	_	_
+
+
+
+# text = Jamais vous ne courûtes aussi vite .
+1	Jamais	_	ADV	_	Polarity=Neg	_	_	_	_
+2	vous	_	PRON	_	Number=Plur|Person=2|PronType=Prs	_	_	_	_
+3	ne	_	ADV	_	Polarity=Neg	_	_	_	_
+4	courûtes	_	VERB	_	Mood=Ind|Number=Plur|Person=2|Tense=Past	_	_	_	_
+5	aussi	_	ADV	_	_	_	_	_	_
+6	vite	_	ADV	_	_	_	_	_	_
+7	.	_	PUNCT	_	_	_	_	_	_
+
+
+
+# text = Lentement vous dansâtes sur la piste de danse .
+1	Lentement	_	ADV	_	_	_	_	_	_
+2	vous	_	PRON	_	Number=Plur|Person=2|PronType=Prs	_	_	_	_
+3	dansâtes	_	VERB	_	Mood=Ind|Number=Plur|Person=2|Tense=Past	_	_	_	_
+4	sur	_	ADP	_	_	_	_	_	_
+5	la	_	DET	_	Definite=Def|Number=Sing|PronType=Art	_	_	_	_
+6	piste	_	NOUN	_	Number=Sing	_	_	_	_
+7	de	_	ADP	_	_	_	_	_	_
+8	danse	_	NOUN	_	Number=Sing	_	_	_	_
+9	.	_	PUNCT	_	_	_	_	_	_
+
+
+
+# text = Lentement vous prîtes le temps de savourer chaque instant .
+1	Lentement	_	ADV	_	_	_	_	_	_
+2	vous	_	PRON	_	Number=Plur|Person=2|PronType=Prs	_	_	_	_
+3	prîtes	_	VERB	_	Mood=Ind|Number=Plur|Person=2|Tense=Past	_	_	_	_
+4	le	_	DET	_	Definite=Def|Number=Sing|PronType=Art	_	_	_	_
+5	temps	_	NOUN	_	Number=Sing	_	_	_	_
+6	de	_	ADP	_	_	_	_	_	_
+7	savourer	_	VERB	_	VerbForm=Inf	_	_	_	_
+8	chaque	_	DET	_	Definite=Ind|Number=Sing|PronType=Art	_	_	_	_
+9	instant	_	NOUN	_	Number=Sing	_	_	_	_
+10	.	_	PUNCT	_	_	_	_	_	_
+
+
+
+# text = Lentement vous vendîtes tous vos meubles pour voyager léger .
+1	Lentement	_	ADV	_	_	_	_	_	_
+2	vous	_	PRON	_	Number=Plur|Person=2|PronType=Prs	_	_	_	_
+3	vendîtes	_	VERB	_	Mood=Ind|Number=Plur|Person=2|Tense=Past	_	_	_	_
+4	tous	_	ADJ	_	Number=Plur	_	_	_	_
+5	vos	_	DET	_	Number=Plur|Number[psor]=Plur|Person=2|Poss=Yes	_	_	_	_
+6	meubles	_	NOUN	_	Number=Plur	_	_	_	_
+7	pour	_	ADP	_	_	_	_	_	_
+8	voyager	_	VERB	_	VerbForm=Inf	_	_	_	_
+9	léger	_	ADJ	_	Number=Sing	_	_	_	_
+10	.	_	PUNCT	_	_	_	_	_	_
+
+
+
+# text = Nous chantâmes des chants traditionnels autour du feu de camp .
+1	Nous	_	PRON	_	Number=Plur|Person=1|PronType=Prs	_	_	_	_
+2	chantâmes	_	VERB	_	Mood=Ind|Number=Plur|Person=1|Tense=Past	_	_	_	_
+3	des	_	DET	_	Definite=Ind|Number=Plur|PronType=Art	_	_	_	_
+4	chants	_	NOUN	_	Number=Plur	_	_	_	_
+5	traditionnels	_	ADJ	_	Number=Plur	_	_	_	_
+6	autour	_	ADV	_	_	_	_	_	_
+7	du	_	ADP	_	Definite=Def|Number=Sing|PronType=Art	_	_	_	_
+8	feu	_	NOUN	_	Number=Sing	_	_	_	_
+9	de	_	ADP	_	_	_	_	_	_
+10	camp	_	NOUN	_	Number=Sing	_	_	_	_
+11	.	_	PUNCT	_	_	_	_	_	_
+
+
+
+# text = Nous chantâmes en duo lors du karaoké .
+1	Nous	_	PRON	_	Number=Plur|Person=1|PronType=Prs	_	_	_	_
+2	chantâmes	_	VERB	_	Mood=Ind|Number=Plur|Person=1|Tense=Past	_	_	_	_
+3	en	_	ADP	_	_	_	_	_	_
+4	duo	_	NOUN	_	Number=Sing	_	_	_	_
+5	lors	_	ADV	_	_	_	_	_	_
+6	du	_	ADP	_	Definite=Def|Number=Sing|PronType=Art	_	_	_	_
+7	karaoké	_	NOUN	_	Number=Sing	_	_	_	_
+8	.	_	PUNCT	_	_	_	_	_	_
+
+
+
+# text = Nous dansâmes sous la pluie lors du festival de musique .
+1	Nous	_	PRON	_	Number=Plur|Person=1|PronType=Prs	_	_	_	_
+2	dansâmes	_	VERB	_	Mood=Ind|Number=Plur|Person=1|Tense=Past	_	_	_	_
+3	sous	_	ADP	_	_	_	_	_	_
+4	la	_	DET	_	Definite=Def|Number=Sing|PronType=Art	_	_	_	_
+5	pluie	_	NOUN	_	Number=Sing	_	_	_	_
+6	lors	_	ADV	_	_	_	_	_	_
+7	du	_	ADP	_	Definite=Def|Number=Sing|PronType=Art	_	_	_	_
+8	festival	_	NOUN	_	Number=Sing	_	_	_	_
+9	de	_	ADP	_	_	_	_	_	_
+10	musique	_	NOUN	_	Number=Sing	_	_	_	_
+11	.	_	PUNCT	_	_	_	_	_	_
+
+
+
+# text = Nous jouâmes aux échecs pendant des heures .
+1	Nous	_	PRON	_	Number=Plur|Person=1|PronType=Prs	_	_	_	_
+2	jouâmes	_	VERB	_	Mood=Ind|Number=Plur|Person=1|Tense=Past	_	_	_	_
+3	aux	_	ADP	_	Definite=Def|Number=Plur|PronType=Art	_	_	_	_
+4	échecs	_	NOUN	_	Number=Plur	_	_	_	_
+5	pendant	_	ADP	_	_	_	_	_	_
+6	des	_	DET	_	Definite=Ind|Number=Plur|PronType=Art	_	_	_	_
+7	heures	_	NOUN	_	Number=Plur	_	_	_	_
+8	.	_	PUNCT	_	_	_	_	_	_
+
+
+
+# text = Nous mangions une délicieuse paella .
+1	Nous	_	PRON	_	Number=Plur|Person=1|PronType=Prs	_	_	_	_
+2	mangions	_	VERB	_	Mood=Ind|Number=Plur|Person=1|Tense=Imp	_	_	_	_
+3	une	_	DET	_	Definite=Ind|Number=Sing|PronType=Art	_	_	_	_
+4	délicieuse	_	ADJ	_	Number=Sing	_	_	_	_
+5	paella	_	NOUN	_	Number=Sing	_	_	_	_
+6	.	_	PUNCT	_	_	_	_	_	_
+
+
+
+# text = Nous nageâmes dans une eau cristalline lors de notre croisière .
+1	Nous	_	PRON	_	Number=Plur|Person=1|PronType=Prs	_	_	_	_
+2	nageâmes	_	VERB	_	Mood=Ind|Number=Plur|Person=1|Tense=Past	_	_	_	_
+3	dans	_	ADP	_	_	_	_	_	_
+4	une	_	DET	_	Definite=Ind|Number=Sing|PronType=Art	_	_	_	_
+5	eau	_	NOUN	_	Number=Sing	_	_	_	_
+6	cristalline	_	ADJ	_	Number=Sing	_	_	_	_
+7	lors	_	ADV	_	_	_	_	_	_
+8	de	_	ADP	_	_	_	_	_	_
+9	notre	_	DET	_	Number=Sing|Number[psor]=Plur|Person=1|Poss=Yes	_	_	_	_
+10	croisière	_	NOUN	_	Number=Sing	_	_	_	_
+11	.	_	PUNCT	_	_	_	_	_	_
+
+
+
+# text = Nous parlâmes de nos voyages autour du monde .
+1	Nous	_	PRON	_	Number=Plur|Person=1|PronType=Prs	_	_	_	_
+2	parlâmes	_	VERB	_	Mood=Ind|Number=Plur|Person=1|Tense=Past	_	_	_	_
+3	de	_	ADP	_	_	_	_	_	_
+4	nos	_	DET	_	Number=Plur|Number[psor]=Plur|Person=1|Poss=Yes	_	_	_	_
+5	voyages	_	NOUN	_	Number=Plur	_	_	_	_
+6	autour	_	ADV	_	_	_	_	_	_
+7	du	_	ADP	_	Definite=Def|Number=Sing|PronType=Art	_	_	_	_
+8	monde	_	NOUN	_	Number=Sing	_	_	_	_
+9	.	_	PUNCT	_	_	_	_	_	_
+
+
+
+# text = Nous parlâmes longuement de nos projets d' avenir .
+1	Nous	_	PRON	_	Number=Plur|Person=1|PronType=Prs	_	_	_	_
+2	parlâmes	_	VERB	_	Mood=Ind|Number=Plur|Person=1|Tense=Past	_	_	_	_
+3	longuement	_	ADV	_	_	_	_	_	_
+4	de	_	ADP	_	_	_	_	_	_
+5	nos	_	DET	_	Number=Plur|Number[psor]=Plur|Person=1|Poss=Yes	_	_	_	_
+6	projets	_	NOUN	_	Number=Plur	_	_	_	_
+7	d'	_	ADP	_	_	_	_	_	_
+8	avenir	_	NOUN	_	Number=Sing	_	_	_	_
+9	.	_	PUNCT	_	_	_	_	_	_
+
+
+
+# text = Nous partîmes à l' aventure sans savoir où nous allions atterrir .
+1	Nous	_	PRON	_	Number=Plur|Person=1|PronType=Prs	_	_	_	_
+2	partîmes	_	VERB	_	Mood=Ind|Number=Plur|Person=1|Tense=Past	_	_	_	_
+3	à	_	ADP	_	_	_	_	_	_
+4	l'	_	DET	_	Definite=Def|Number=Sing|PronType=Art	_	_	_	_
+5	aventure	_	NOUN	_	Number=Sing	_	_	_	_
+6	sans	_	ADP	_	Polarity=Neg	_	_	_	_
+7	savoir	_	VERB	_	VerbForm=Inf	_	_	_	_
+8	où	_	PRON	_	PronType=Rel	_	_	_	_
+9	nous	_	PRON	_	Number=Plur|Person=1|PronType=Prs	_	_	_	_
+10	allions	_	VERB	_	Mood=Ind|Number=Plur|Person=1|Tense=Imp	_	_	_	_
+11	atterrir	_	VERB	_	VerbForm=Inf	_	_	_	_
+12	.	_	PUNCT	_	_	_	_	_	_
+
+
+
+# text = Nous partîmes en voyage autour du monde .
+1	Nous	_	PRON	_	Number=Plur|Person=1|PronType=Prs	_	_	_	_
+2	partîmes	_	VERB	_	Mood=Ind|Number=Plur|Person=1|Tense=Past	_	_	_	_
+3	en	_	ADP	_	_	_	_	_	_
+4	voyage	_	NOUN	_	Number=Sing	_	_	_	_
+5	autour	_	ADV	_	_	_	_	_	_
+6	du	_	ADP	_	Definite=Def|Number=Sing|PronType=Art	_	_	_	_
+7	monde	_	NOUN	_	Number=Sing	_	_	_	_
+8	.	_	PUNCT	_	_	_	_	_	_
+
+
+
+# text = Nous prîmes le train pour aller à la plage .
+1	Nous	_	PRON	_	Number=Plur|Person=1|PronType=Prs	_	_	_	_
+2	prîmes	_	VERB	_	Mood=Ind|Number=Plur|Person=1|Tense=Past	_	_	_	_
+3	le	_	DET	_	Definite=Def|Number=Sing|PronType=Art	_	_	_	_
+4	train	_	NOUN	_	Number=Sing	_	_	_	_
+5	pour	_	ADP	_	_	_	_	_	_
+6	aller	_	VERB	_	VerbForm=Inf	_	_	_	_
+7	à	_	ADP	_	_	_	_	_	_
+8	la	_	DET	_	Definite=Def|Number=Sing|PronType=Art	_	_	_	_
+9	plage	_	NOUN	_	Number=Sing	_	_	_	_
+10	.	_	PUNCT	_	_	_	_	_	_
+
+
+
+# text = Nous trouvâmes un trésor enfoui dans le sable de la plage .
+1	Nous	_	PRON	_	Number=Plur|Person=1|PronType=Prs	_	_	_	_
+2	trouvâmes	_	VERB	_	Mood=Ind|Number=Plur|Person=1|Tense=Past	_	_	_	_
+3	un	_	DET	_	Definite=Ind|Number=Sing|PronType=Art	_	_	_	_
+4	trésor	_	NOUN	_	Number=Sing	_	_	_	_
+5	enfoui	_	VERB	_	Number=Sing|Tense=Past|VerbForm=Part|Voice=Pass	_	_	_	_
+6	dans	_	ADP	_	_	_	_	_	_
+7	le	_	DET	_	Definite=Def|Number=Sing|PronType=Art	_	_	_	_
+8	sable	_	NOUN	_	Number=Sing	_	_	_	_
+9	de	_	ADP	_	_	_	_	_	_
+10	la	_	DET	_	Definite=Def|Number=Sing|PronType=Art	_	_	_	_
+11	plage	_	NOUN	_	Number=Sing	_	_	_	_
+12	.	_	PUNCT	_	_	_	_	_	_
+
+
+
+# text = Nous visitâmes un village pittoresque en bord de mer .
+1	Nous	_	PRON	_	Number=Plur|Person=1|PronType=Prs	_	_	_	_
+2	visitâmes	_	VERB	_	Mood=Ind|Number=Plur|Person=1|Tense=Past	_	_	_	_
+3	un	_	DET	_	Definite=Ind|Number=Sing|PronType=Art	_	_	_	_
+4	village	_	NOUN	_	Number=Sing	_	_	_	_
+5	pittoresque	_	ADJ	_	Number=Sing	_	_	_	_
+6	en	_	ADP	_	_	_	_	_	_
+7	bord	_	NOUN	_	Number=Sing	_	_	_	_
+8	de	_	ADP	_	_	_	_	_	_
+9	mer	_	NOUN	_	Number=Sing	_	_	_	_
+10	.	_	PUNCT	_	_	_	_	_	_
+
+
+
+# text = Rarement nous trouvâmes un endroit aussi paisible .
+1	Rarement	_	ADV	_	_	_	_	_	_
+2	nous	_	PRON	_	Number=Plur|Person=1|PronType=Prs	_	_	_	_
+3	trouvâmes	_	VERB	_	Mood=Ind|Number=Plur|Person=1|Tense=Past	_	_	_	_
+4	un	_	DET	_	Definite=Ind|Number=Sing|PronType=Art	_	_	_	_
+5	endroit	_	NOUN	_	Number=Sing	_	_	_	_
+6	aussi	_	ADV	_	_	_	_	_	_
+7	paisible	_	ADJ	_	Number=Sing	_	_	_	_
+8	.	_	PUNCT	_	_	_	_	_	_
+
+
+
+# text = Rarement vous écrivîtes un roman aussi captivant .
+1	Rarement	_	ADV	_	_	_	_	_	_
+2	vous	_	PRON	_	Number=Plur|Person=2|PronType=Prs	_	_	_	_
+3	écrivîtes	_	VERB	_	Mood=Ind|Number=Plur|Person=2|Tense=Past	_	_	_	_
+4	un	_	DET	_	Definite=Ind|Number=Sing|PronType=Art	_	_	_	_
+5	roman	_	NOUN	_	Number=Sing	_	_	_	_
+6	aussi	_	ADV	_	_	_	_	_	_
+7	captivant	_	ADJ	_	Number=Sing	_	_	_	_
+8	.	_	PUNCT	_	_	_	_	_	_
+
+
+
+# text = Rarement vous n' arrivâtes à l' heure aux rendez -vous .
+1	Rarement	_	ADV	_	_	_	_	_	_
+2	vous	_	PRON	_	Number=Plur|Person=2|PronType=Prs	_	_	_	_
+3	n'	_	ADV	_	Polarity=Neg	_	_	_	_
+4	arrivâtes	_	VERB	_	Mood=Ind|Number=Plur|Person=2|Tense=Past	_	_	_	_
+5	à	_	ADP	_	_	_	_	_	_
+6	l'	_	DET	_	Definite=Def|Number=Sing|PronType=Art	_	_	_	_
+7	heure	_	NOUN	_	Number=Sing	_	_	_	_
+8	aux	_	ADP	_	Definite=Def|Number=Plur|PronType=Art	_	_	_	_
+9	rendez	_	NOUN	_	Number=Plur	_	_	_	_
+10	-vous	_	PRON	_	Number=Plur|Person=2|PronType=Prs	_	_	_	_
+11	.	_	PUNCT	_	_	_	_	_	_
+
+
+
+# text = Vous arrivâtes en retard à la réunion .
+1	Vous	_	PRON	_	Number=Plur|Person=2|PronType=Prs	_	_	_	_
+2	arrivâtes	_	VERB	_	Mood=Ind|Number=Plur|Person=2|Tense=Past	_	_	_	_
+3	en	_	ADP	_	_	_	_	_	_
+4	retard	_	NOUN	_	Number=Sing	_	_	_	_
+5	à	_	ADP	_	_	_	_	_	_
+6	la	_	DET	_	Definite=Def|Number=Sing|PronType=Art	_	_	_	_
+7	réunion	_	NOUN	_	Number=Sing	_	_	_	_
+8	.	_	PUNCT	_	_	_	_	_	_
+
+
+
+# text = Vous choisîtes le menu du dîner avec soin .
+1	Vous	_	PRON	_	Number=Plur|Person=2|PronType=Prs	_	_	_	_
+2	choisîtes	_	VERB	_	Mood=Ind|Number=Plur|Person=2|Tense=Past	_	_	_	_
+3	le	_	DET	_	Definite=Def|Number=Sing|PronType=Art	_	_	_	_
+4	menu	_	NOUN	_	Number=Sing	_	_	_	_
+5	du	_	ADP	_	Definite=Def|Number=Sing|PronType=Art	_	_	_	_
+6	dîner	_	NOUN	_	Number=Sing	_	_	_	_
+7	avec	_	ADP	_	_	_	_	_	_
+8	soin	_	NOUN	_	Number=Sing	_	_	_	_
+9	.	_	PUNCT	_	_	_	_	_	_
+
+
+
+# text = Vous courûtes un semi-marathon pour relever un défi sportif .
+1	Vous	_	PRON	_	Number=Plur|Person=2|PronType=Prs	_	_	_	_
+2	courûtes	_	VERB	_	Mood=Ind|Number=Plur|Person=2|Tense=Past	_	_	_	_
+3	un	_	DET	_	Definite=Ind|Number=Sing|PronType=Art	_	_	_	_
+4	semi-marathon	_	NOUN	_	Number=Sing	_	_	_	_
+5	pour	_	ADP	_	_	_	_	_	_
+6	relever	_	VERB	_	VerbForm=Inf	_	_	_	_
+7	un	_	DET	_	Definite=Ind|Number=Sing|PronType=Art	_	_	_	_
+8	défi	_	NOUN	_	Number=Sing	_	_	_	_
+9	sportif	_	ADJ	_	Number=Sing	_	_	_	_
+10	.	_	PUNCT	_	_	_	_	_	_
+
+
+
+# text = Vous dansâtes toute la nuit lors du mariage .
+1	Vous	_	PRON	_	Number=Plur|Person=2|PronType=Prs	_	_	_	_
+2	dansâtes	_	VERB	_	Mood=Ind|Number=Plur|Person=1|Tense=Past	_	_	_	_
+3	toute	_	ADJ	_	Number=Sing	_	_	_	_
+4	la	_	DET	_	Definite=Def|Number=Sing|PronType=Art	_	_	_	_
+5	nuit	_	NOUN	_	Number=Sing	_	_	_	_
+6	lors	_	ADV	_	_	_	_	_	_
+7	du	_	ADP	_	Definite=Def|Number=Sing|PronType=Art	_	_	_	_
+8	mariage	_	NOUN	_	Number=Sing	_	_	_	_
+9	.	_	PUNCT	_	_	_	_	_	_
+
+
+
+# text = Vous dormîtes sous les étoiles lors d' un camping sauvage .
+1	Vous	_	PRON	_	Number=Plur|Person=2|PronType=Prs	_	_	_	_
+2	dormîtes	_	VERB	_	Mood=Ind|Number=Plur|Person=2|Tense=Past	_	_	_	_
+3	sous	_	ADP	_	_	_	_	_	_
+4	les	_	DET	_	Definite=Def|Number=Plur|PronType=Art	_	_	_	_
+5	étoiles	_	NOUN	_	Number=Plur	_	_	_	_
+6	lors	_	ADV	_	_	_	_	_	_
+7	d'	_	ADP	_	_	_	_	_	_
+8	un	_	DET	_	Definite=Ind|Number=Sing|PronType=Art	_	_	_	_
+9	camping	_	NOUN	_	Number=Sing	_	_	_	_
+10	sauvage	_	ADJ	_	Number=Sing	_	_	_	_
+11	.	_	PUNCT	_	_	_	_	_	_
+
+
+
+# text = Vous écrivîtes un roman policier qui devint un best-seller .
+1	Vous	_	PRON	_	Number=Plur|Person=2|PronType=Prs	_	_	_	_
+2	écrivîtes	_	VERB	_	Mood=Ind|Number=Plur|Person=2|Tense=Past	_	_	_	_
+3	un	_	DET	_	Definite=Ind|Number=Sing|PronType=Art	_	_	_	_
+4	roman	_	NOUN	_	Number=Sing	_	_	_	_
+5	policier	_	ADJ	_	Number=Sing	_	_	_	_
+6	qui	_	PRON	_	PronType=Rel	_	_	_	_
+7	devint	_	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Past	_	_	_	_
+8	un	_	DET	_	Definite=Ind|Number=Sing|PronType=Art	_	_	_	_
+9	best-seller	_	NOUN	_	Number=Sing	_	_	_	_
+10	.	_	PUNCT	_	_	_	_	_	_
+
+
+
+# text = Vous finîtes de lire un livre passionnant en une seule journée .
+1	Vous	_	PRON	_	Number=Plur|Person=2|PronType=Prs	_	_	_	_
+2	finîtes	_	AUX	_	Mood=Ind|Number=Plur|Person=2|Tense=Past	_	_	_	_
+3	de	_	ADP	_	_	_	_	_	_
+4	lire	_	VERB	_	VerbForm=Inf	_	_	_	_
+5	un	_	DET	_	Definite=Ind|Number=Sing|PronType=Art	_	_	_	_
+6	livre	_	NOUN	_	Number=Sing	_	_	_	_
+7	passionnant	_	ADJ	_	Number=Sing	_	_	_	_
+8	en	_	ADP	_	_	_	_	_	_
+9	une	_	DET	_	Definite=Ind|Number=Sing|PronType=Art	_	_	_	_
+10	seule	_	ADJ	_	Number=Sing	_	_	_	_
+11	journée	_	NOUN	_	Number=Sing	_	_	_	_
+12	.	_	PUNCT	_	_	_	_	_	_
+
+
+
+# text = Vous offrîtes un bijou en or à votre fiancée pour la Saint-Valentin .
+1	Vous	_	PRON	_	Number=Plur|Person=2|PronType=Prs	_	_	_	_
+2	offrîtes	_	AUX	_	Mood=Ind|Number=Plur|Person=2|Tense=Past	_	_	_	_
+3	un	_	DET	_	Definite=Ind|Number=Sing|PronType=Art	_	_	_	_
+4	bijou	_	NOUN	_	Number=Sing	_	_	_	_
+5	en	_	ADP	_	_	_	_	_	_
+6	or	_	NOUN	_	Number=Sing	_	_	_	_
+7	à	_	ADP	_	_	_	_	_	_
+8	votre	_	DET	_	Number=Sing|Number[psor]=Plur|Person=2|Poss=Yes	_	_	_	_
+9	fiancée	_	NOUN	_	Number=Sing	_	_	_	_
+10	pour	_	ADP	_	_	_	_	_	_
+11	la	_	DET	_	Definite=Def|Number=Sing|PronType=Art	_	_	_	_
+12	Saint-Valentin	_	NOUN	_	Number=Sing	_	_	_	_
+13	.	_	PUNCT	_	_	_	_	_	_
+
+
+
+# text = Vous prîtes des cours de cuisine pour apprendre de nouvelles recettes .
+1	Vous	_	PRON	_	Number=Plur|Person=2|PronType=Prs	_	_	_	_
+2	prîtes	_	AUX	_	Mood=Ind|Number=Plur|Person=2|Tense=Past	_	_	_	_
+3	des	_	DET	_	Definite=Ind|Number=Plur|PronType=Art	_	_	_	_
+4	cours	_	NOUN	_	Number=Plur	_	_	_	_
+5	de	_	ADP	_	_	_	_	_	_
+6	cuisine	_	NOUN	_	Number=Sing	_	_	_	_
+7	pour	_	ADP	_	_	_	_	_	_
+8	apprendre	_	VERB	_	VerbForm=Inf	_	_	_	_
+9	de	_	DET	_	Definite=Ind|Number=Plur|PronType=Art	_	_	_	_
+10	nouvelles	_	ADJ	_	Number=Plur	_	_	_	_
+11	recettes	_	NOUN	_	Number=Plur	_	_	_	_
+12	.	_	PUNCT	_	_	_	_	_	_
+
+
+
+# text = Vous vendîtes tous vos meubles avant de déménager .
+1	Vous	_	PRON	_	Number=Plur|Person=2|PronType=Prs	_	_	_	_
+2	vendîtes	_	AUX	_	Mood=Ind|Number=Plur|Person=2|Tense=Past	_	_	_	_
+3	tous	_	ADJ	_	Number=Plur	_	_	_	_
+4	vos	_	DET	_	Number=Plur|Number[psor]=Plur|Person=2|Poss=Yes	_	_	_	_
+5	meubles	_	NOUN	_	Number=Plur	_	_	_	_
+6	avant	_	ADP	_	_	_	_	_	_
+7	de	_	ADP	_	_	_	_	_	_
+8	déménager	_	VERB	_	VerbForm=Inf	_	_	_	_
+9	.	_	PUNCT	_	_	_	_	_	_
+
